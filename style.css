@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+  color: white;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: red;
+  color: wheat;
+}
